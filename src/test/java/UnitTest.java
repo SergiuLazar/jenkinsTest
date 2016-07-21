@@ -15,7 +15,6 @@ public class UnitTest {
 
     @Test
     public void testMethodFail() {
-        
         assertTrue(HelloWorld.CreateMessage(1).equals("Hello World!"));
     }
 }
