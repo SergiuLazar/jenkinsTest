@@ -10,9 +10,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.trmsys.osgi.wrap</groupId>
+            <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11.0_1</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
