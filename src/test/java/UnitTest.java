@@ -10,7 +10,7 @@ public class UnitTest {
 
     @Test
     public void testMethodPass() {
-        assertTrue(HelloWorld.CreateMessage(0).equals("Goodbye world"));
+        assertTrue(HelloWorld.CreateMessage(0).equals("Goobye world"));
     }
 
     @Test
